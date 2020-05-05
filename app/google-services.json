@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097577717308",
+    "firebase_url": "https://uber-425ae.firebaseio.com",
+    "project_id": "uber-425ae",
+    "storage_bucket": "uber-425ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097577717308:android:85e86aa7e95a44ca61ed39",
+        "android_client_info": {
+          "package_name": "aleksandrofreire.cursoandroid.uber.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097577717308-oglh77k69thbvcufl88fljs55p5pd8qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aleksandrofreire.cursoandroid.uber.com",
+            "certificate_hash": "072123f0a63277e5f12cd77d1c1ce584d9b6f378"
+          }
+        },
+        {
+          "client_id": "1097577717308-1aca2d9l52460rt67l9uehjajckjk8jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Izg4_RxorXKhPgU09iCHuCdI_YAVb80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097577717308-1aca2d9l52460rt67l9uehjajckjk8jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
